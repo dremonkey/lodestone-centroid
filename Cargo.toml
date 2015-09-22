@@ -1,0 +1,19 @@
+[package]
+name = "lodestone-centroid"
+version = "0.1.0"
+authors = ["dremonkey <a.deutmeyer@gmail.com>"]
+
+[dependencies.lodestone-along]
+path = "../lodestone-along"
+
+[dependencies.lodestone-linestring]
+path = "../lodestone-linestring"
+
+[dependencies.lodestone-line-distance]
+path = "../lodestone-line-distance"
+
+[dependencies.lodestone-point]
+path = "../lodestone-point"
+
+[dependencies.lodestone-polygon]
+path = "../lodestone-polygon"
